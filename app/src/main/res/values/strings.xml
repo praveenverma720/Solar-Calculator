@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoodEd</string>
+    <string name="title_location_permission">Please allow access to location</string>
+    <string name="text_location_permission">Allow access?</string>
+
+
+    <string name="empty_not_saved">Pin not saved because it is empty.</string>
+    <string name="permissionnotfulfilled">Permission not fulfilled</string>
+    <string name="sunnotrise">Sun do not rises from here on this day.</string>
+    <string name="sunnotset">Sun do not sets today.</string>
+    <string name="nopins">No Pins</string>
+    <string name="google_key">AIzaSyDF3-LPg6h7EH6SfyMwxkeJU_5KIwV5gmk</string>
+    <string name="initcoord">Initializing the geo coordindates. Please wait..</string>
+    <string name="marker">Marker in position</string>
+</resources>
